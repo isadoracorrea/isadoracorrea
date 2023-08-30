@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @isadoracorrea
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning software development
+-  Hi, I’m @isadoracorrea
+-  I’m interested in programming 
+-  I’m currently learning software development
 
 
 <!---
